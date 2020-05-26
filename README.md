@@ -7,8 +7,7 @@ Based as an Adaptation to [DeepMind paper](https://www.cs.toronto.edu/~vmnih/doc
 ## Initial configurations
 Download chromedriver from this [link](http://chromedriver.chromium.org/) and extract it to a directory
 Install the required python library commands by issuing
-```bash
-pip install -r requiremenets.txt```
+```pip install -r requirements.txt```
 
 ### Arguments available for train.py
 ```bash
