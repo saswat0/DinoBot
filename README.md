@@ -53,7 +53,7 @@ pip install -r requiremenets.txt```
 * Train more with failures.
     * python train.py --chrome_driver_path /path/to/chromedriver --ratio_of_win 0.1
 * Load the pretrained model for testing purposes
-    * python train.py --chrome_driver_path /path/to/chromedriver --checkpoint_path freezed_model.pth --exploiting
+    * python train.py --chrome_driver_path /path/to/chromedriver --checkpoint_path ../weights/freezed_model.pth --exploiting
 
 ## Pre-trained weight
 Generated as a sample after 400 trials of the game
