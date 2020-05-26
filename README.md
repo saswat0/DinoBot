@@ -2,7 +2,7 @@
 A PyTorch based approach for the popular dinosaur game on Google Chrome
 
 # Background and Motivation
-Based as an Adaptation to [DeepMind paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) in 2013) on an introductory [blog](https://blog.paperspace.com/dino-run/) presented in PaperSpace based on Deep RL of QNetwrok
+Based as an Adaptation to [DeepMind paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) in 2013 on an introductory [blog](https://blog.paperspace.com/dino-run/) presented in PaperSpace based on Deep RL of QNetwrok
 
 ## Initial configurations
 Download chromedriver from this [link](http://chromedriver.chromium.org/) and extract it to a directory
